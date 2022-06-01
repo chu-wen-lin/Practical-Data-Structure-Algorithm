@@ -1,3 +1,7 @@
+Many thanks to Prof. Chien-Yu, Chen, and two teaching assistants: Lin, Hung-Yeh, and Tsai, Ya-Chen. This course was a turning point in my understanding of computer programming, setting up a good foundation for my knowledge of algorithms.
+
+Listed below are the course problems and solutions I came up with. If you have any advice or comment, please feel free to contact me. 
+
 |Problem|Description|Solution|
 | ------------- |-------------|-----|
 |Two Sum|[TwoSum.md](TwoSum/TwoSum.md)|[TwoSum.py](TwoSum/TwoSum.py)|

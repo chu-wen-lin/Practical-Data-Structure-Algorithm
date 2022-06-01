@@ -4,5 +4,4 @@ venv/
 lib/
 bin/
 pyvenv.cfg
-.ipynb_checkpoints/
 .DS_Store
